@@ -17,8 +17,10 @@ Topologias de rede desenvolvidas em Cisco Packet Tracer, aplicando conceitos de 
 
 **Teste realizado:** ping entre dispositivos da mesma VLAN (sucesso) e entre VLANs diferentes (falha esperada, confirmando o isolamento).
 
-**Arquivos:** `topologia-1-vlans.pkt` · `topologia-1-vlans.png`· `topologia-1-vlans1.png
+**Arquivos:** `topologia-1-vlans.pkt` · `topologia-1-vlans.png`· `topologia-1-vlans1.png`
 
+<img width="495" height="451" alt="topologia-1-vlans" src="https://github.com/user-attachments/assets/e31689e8-c573-46e4-930c-b7909bd57858" />
+<img width="627" height="381" alt="topologia-1-vlans1" src="https://github.com/user-attachments/assets/18bb0043-5a87-4d57-a323-66927eff3422" />
 
 
 ## Topologia 2 — Simulação de rede de acesso FTTH
@@ -35,5 +37,10 @@ Topologias de rede desenvolvidas em Cisco Packet Tracer, aplicando conceitos de 
 **Teste realizado:** ping dos clientes até o roteador (provedor) e entre clientes, confirmando conectividade de ponta a ponta na rede de acesso simulada.
 
 **Arquivos:** `topologia-2-ftth.pkt` · `topologia-2-ftth.png` · `topologia-2-ftth1.png`
+
+<img width="528" height="442" alt="topologia-2-ftth" src="https://github.com/user-attachments/assets/e18d8ae2-907e-45f8-9497-535627c0eb9f" />
+<img width="662" height="522" alt="topologia-2-ftth1" src="https://github.com/user-attachments/assets/84f6a009-75f0-4664-8d50-c86b8e90624b" />
+
+
 
 

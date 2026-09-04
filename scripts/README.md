@@ -2,7 +2,8 @@
 
 Scripts de automação voltados para tarefas do dia a dia de um técnico de suporte: coleta rápida de informações da máquina, diagnóstico de rede e geração de relatórios para anexar em chamados.
 
----
+<img width="1422" height="625" alt="inventario-maquina-screenshot" src="https://github.com/user-attachments/assets/935c2f9d-5b99-482e-a5f4-efde08896f5d" />
+
 
 ## `inventario-maquina.ps1`
 

@@ -18,5 +18,5 @@ Este repositório reúne exemplos práticos do meu trabalho técnico: laboratór
 
 - **Nome:** Leonardo Picanço Queiroz Fontinele
 - **E-mail:** leonardoqfontinele@gmail.com
-- **LinkedIn:** [linkedin.com/in/leonardofontinele]([https://linkedin.com/in/leonardofontinele](https://www.linkedin.com/in/leonardo-fontinele-798192381/))
+- **LinkedIn:** [linkedin.com/in/leonardofontinele](https://linkedin.com/in/leonardofontinele](https://www.linkedin.com/in/leonardo-fontinele-798192381/))
 - **Localização:** Macapá/AP
